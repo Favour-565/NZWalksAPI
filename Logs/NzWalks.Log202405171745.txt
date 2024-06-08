@@ -1,0 +1,2 @@
+2024-05-17 17:45:19.208 +01:00 [WRN] This is a warning log
+2024-05-17 17:45:19.280 +01:00 [ERR] This is a error log
